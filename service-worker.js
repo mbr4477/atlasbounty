@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/atlasbounty/precache-manifest.49463d06c26ec8081b441234dcc84aa1.js"
+  "/atlasbounty/precache-manifest.302b1e553ca648ba2dd4a4816d23f60d.js"
 );
 
 self.addEventListener('message', (event) => {
