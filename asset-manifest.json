@@ -17,8 +17,8 @@
     "static/js/7.94f0435b.chunk.js": "/atlasbounty/static/js/7.94f0435b.chunk.js",
     "static/js/7.94f0435b.chunk.js.map": "/atlasbounty/static/js/7.94f0435b.chunk.js.map",
     "main.css": "/atlasbounty/static/css/main.2f2bbbdb.chunk.css",
-    "main.js": "/atlasbounty/static/js/main.1ac42f6f.chunk.js",
-    "main.js.map": "/atlasbounty/static/js/main.1ac42f6f.chunk.js.map",
+    "main.js": "/atlasbounty/static/js/main.eb177120.chunk.js",
+    "main.js.map": "/atlasbounty/static/js/main.eb177120.chunk.js.map",
     "runtime-main.js": "/atlasbounty/static/js/runtime-main.fb210b5d.js",
     "runtime-main.js.map": "/atlasbounty/static/js/runtime-main.fb210b5d.js.map",
     "static/css/10.2e1322c4.chunk.css": "/atlasbounty/static/css/10.2e1322c4.chunk.css",
@@ -203,7 +203,7 @@
     "static/js/99.202aefbd.chunk.js": "/atlasbounty/static/js/99.202aefbd.chunk.js",
     "static/js/99.202aefbd.chunk.js.map": "/atlasbounty/static/js/99.202aefbd.chunk.js.map",
     "index.html": "/atlasbounty/index.html",
-    "precache-manifest.4716789c086b297eafdddd938a419b36.js": "/atlasbounty/precache-manifest.4716789c086b297eafdddd938a419b36.js",
+    "precache-manifest.427c2f2c2a461284e3f05677313f1e78.js": "/atlasbounty/precache-manifest.427c2f2c2a461284e3f05677313f1e78.js",
     "service-worker.js": "/atlasbounty/service-worker.js",
     "static/css/10.2e1322c4.chunk.css.map": "/atlasbounty/static/css/10.2e1322c4.chunk.css.map",
     "static/css/main.2f2bbbdb.chunk.css.map": "/atlasbounty/static/css/main.2f2bbbdb.chunk.css.map",
@@ -909,6 +909,6 @@
     "static/css/10.2e1322c4.chunk.css",
     "static/js/10.fb76760f.chunk.js",
     "static/css/main.2f2bbbdb.chunk.css",
-    "static/js/main.1ac42f6f.chunk.js"
+    "static/js/main.eb177120.chunk.js"
   ]
 }

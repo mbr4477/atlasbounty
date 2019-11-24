@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2157b60629e6ca01d217491cbb06d97d",
+    "revision": "bc17df36c8e8acdeadf2605cf7514c87",
     "url": "/atlasbounty/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/atlasbounty/static/css/10.2e1322c4.chunk.css"
   },
   {
-    "revision": "2421d09e800d4b18c0de",
+    "revision": "f44af15c925ebc3ff847",
     "url": "/atlasbounty/static/css/main.2f2bbbdb.chunk.css"
   },
   {
@@ -404,8 +404,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/atlasbounty/static/js/99.202aefbd.chunk.js"
   },
   {
-    "revision": "2421d09e800d4b18c0de",
-    "url": "/atlasbounty/static/js/main.1ac42f6f.chunk.js"
+    "revision": "f44af15c925ebc3ff847",
+    "url": "/atlasbounty/static/js/main.eb177120.chunk.js"
   },
   {
     "revision": "222e939287f218f3bc0f",
